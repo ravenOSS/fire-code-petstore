@@ -1,4 +1,10 @@
 # fire-code
+### Code to complement petstore-cli repo. This code uses the same db connection data.
+Code provides an alternative to directly entering data in the Firestore DB console. 
+Tool can be adapted to other projects for simple prototyping.
+
+## Core project
+[https://github.com/ravenOSS/vue-in-action-refactor]
 
 ## Project setup
 ```
@@ -10,15 +16,3 @@ yarn install
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
